@@ -1,11 +1,3 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct  7 20:37:57 2019
-
-@author: jkalach
-"""
-
 import pandas as pd
 import numpy as ny
 import json
